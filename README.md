@@ -1,2 +1,2 @@
 # KODd
-tgfkcuytckuyct
+что-то для кода
